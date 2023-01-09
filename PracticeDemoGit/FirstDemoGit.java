@@ -1,4 +1,4 @@
-package PracticeDemoGit;
+package GitDemoPractice.PracticeDemoGit;
 
 public class FirstDemoGit {
 
@@ -6,6 +6,9 @@ public class FirstDemoGit {
 		System.out.println("Hello World");
 		System.out.println("Hello World");
 		System.out.println("Hello World");
+
+		System.out.println("This is Develop branch");
+			
 	}
 
 }
